@@ -1,6 +1,5 @@
 # Threat Hunt Report: The Great Admin Heist
 
-**Participant:** Wilson  
 **Date:** May 2025  
 
 ## Platforms and Tools Used
